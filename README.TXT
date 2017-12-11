@@ -1,5 +1,5 @@
 Project: Text-adventure
-By Martijn Klok, a.k.a MKRetunz.
+By Martijn Klok,
 
 Authors: Michael Kolling and David J. Barnes
 
